@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import { Menu, X, Heart, ShoppingCart, User } from "lucide-react";
 import CartDrawer from "./CartDrawer";
 import WishlistDrawer from "./WishlistDrawer";
-import AuthModal from "./AuthModal";
+import AuthModal from "./AuthModal.jsx";
 import { products } from "../Javascript/products";
 const readStorage = (key) => {
   try {
