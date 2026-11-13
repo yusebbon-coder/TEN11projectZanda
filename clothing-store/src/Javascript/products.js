@@ -1316,5 +1316,40 @@ export const products = [
             "https://zand.sgp1.cdn.digitaloceanspaces.com/catalog/2026-10/21226061893%202/STU_0920.jpg"
         ],
     },
-
+     {
+        id : 71,
+        brand : "ZANDA.",
+        name : "UNISEX CREATIVE HOODIE",
+        price :32.59,
+        discount :15,
+        isnew :true,
+        category : "men",
+        color : ["Black"],
+        size :["M","L"],
+        description : "Upgrade your daily street style with this unisex pullover hoodie. Featuring a boxy relaxed fit, roomy kangaroo pocket, cozy double-lined hood, and bold red SBLS Creative graphics, it offers easy all-day comfort for all.",
+        image : "https://zand.sgp1.cdn.digitaloceanspaces.com/catalog/2026-10/10112610497/SBL1160003%20(1).png",
+        images : [
+            "https://zand.sgp1.cdn.digitaloceanspaces.com/catalog/2026-10/10112610497/SBL1160003%20(1).png",
+            "https://zand.sgp1.cdn.digitaloceanspaces.com/catalog/2026-10/10112610497/SBL1160003%20(2).jpg"
+        ],
+    },
+     {
+        id : 72,
+        brand : "ZANDA.",
+        name : "Unisex Wave Rider 10 Sneakers",
+        price :148,
+        discount :15,
+        isnew :true,
+        category : "men",
+        color : ["Black"],
+        size :["36.5","37","38","39","40","41","42","43","44"],
+        description : "A modern unisex revival of the 2006 icon, featuring metallic synthetic leather overlays, breathable layered mesh, and a TPU RunBird logo. Powered by Wave Plate and VS-1 cushioning for superior shock absorption and daily comfort.",
+        image : "https://zand.sgp1.cdn.digitaloceanspaces.com/catalog/2026-10/14112608004/D1GA261D04%20(2).png",
+        images : [
+            "https://zand.sgp1.cdn.digitaloceanspaces.com/catalog/2026-10/14112608004/D1GA261D04%20(2).png",
+            "https://zand.sgp1.cdn.digitaloceanspaces.com/catalog/2026-10/14112608004/D1GA261D04%20(1).png",
+             "https://zand.sgp1.cdn.digitaloceanspaces.com/catalog/2026-10/14112608004/D1GA261D04%20(3).png",
+            "https://zand.sgp1.cdn.digitaloceanspaces.com/catalog/2026-10/14112608004/D1GA261D04%20(5).png"
+        ],
+    },
 ]
